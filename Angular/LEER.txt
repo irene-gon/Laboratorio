@@ -1,0 +1,2 @@
+npmEn primer lugar será necesario ejecutar "npm install" para instalar todas las dependencias. 
+Para levantar el servidor: "ng serve -o"
